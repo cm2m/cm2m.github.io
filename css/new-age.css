@@ -226,6 +226,9 @@ header .header-content .header-content-inner h1 {
   margin-bottom: 30px;
   font-size: 38px;
 }
+header .header-content .header-content-inner a {
+  color: white;
+}
 header .header-content .header-content-inner .list-badges {
   margin-bottom: 25px;
 }
@@ -389,7 +392,7 @@ section.contact ul.list-social li.social-twitter a:hover {
   background-color: #0d95e8;
 }
 section.contact ul.list-social li.social-facebook a {
-  background-color: #3b5998;
+  background-color: #3D3B3C;
 }
 section.contact ul.list-social li.social-facebook a:hover {
   background-color: #344e86;
@@ -399,6 +402,12 @@ section.contact ul.list-social li.social-google-plus a {
 }
 section.contact ul.list-social li.social-google-plus a:hover {
   background-color: #d73925;
+}
+section.contact ul.list-social li.social-mail a {
+  background-color: #3D3B3C;
+}
+section.contact ul.list-social li.social-mail a:hover {
+  background-color: #302e2f;
 }
 footer {
   background-color: #222222;
